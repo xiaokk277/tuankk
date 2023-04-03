@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\LTHSK-Inclass\ThucHanhLTHSK\obj\Debug\ThucHanhLTHSK.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\LTHSK-Inclass\ThucHanhLTHSK\obj\Debug\ThucHanhLTHSK.Properties.Resources.resources
+C:\Users\pc\source\repos\LTHSK-Inclass\ThucHanhLTHSK\obj\Debug\ThucHanhLTHSK.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\LTHSK-Inclass\ThucHanhLTHSK\obj\Debug\ThucHanhLTHSK.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\LTHSK-Inclass\ThucHanhLTHSK\obj\Debug\ThucHanhLTHSK.exe
+C:\Users\pc\source\repos\LTHSK-Inclass\ThucHanhLTHSK\obj\Debug\ThucHanhLTHSK.pdb
+C:\Users\pc\source\repos\LTHSK-Inclass\ThucHanhLTHSK\obj\Debug\ThucHanhLTHSK.FormSinhVien.resources
+C:\Users\pc\source\repos\LTHSK-Inclass\ThucHanhLTHSK\ThucHanhLTHSK.exe.config
+C:\Users\pc\source\repos\LTHSK-Inclass\ThucHanhLTHSK\ThucHanhLTHSK.exe
+C:\Users\pc\source\repos\LTHSK-Inclass\ThucHanhLTHSK\ThucHanhLTHSK.pdb
